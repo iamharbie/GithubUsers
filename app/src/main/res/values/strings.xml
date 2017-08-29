@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="error_message">An error occured... Please Refresh!!!</string>
+    <string name="share">Share</string>
+    <string name="refresh">Refresh</string>
+</resources>

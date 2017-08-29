@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1272f3c9a9df7911879128c3dd0a4e8cc9674126">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d7493f5b32e62f6de9d02fe488791adcab04cb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_9d2ab5e2522af1da4fb7de02f82717d1f6b124de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_5526efba5387d78f6d49f4ca61bbd408c2a7a75f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6dd73656f85136259e266462168b7c6b3c31a11a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6141f75ab260be97abcbd3d60b0fa60a2ea6f02">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4337ac01522758338833243084982fd1bf3d313b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_5e0bbdc8b5e1e9dd2631f967359cc9a95a4051e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_63e249f0de924b91a51c1e261979865b6ca8dcd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_56f17c56c3efc5020e758c678bf62c7c3732fc6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a39623ea859387a5370e928ac032685c24d873ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7df300b7613ba05724777ada18e4b3e011b05eaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3fb32e55d426eece613565caabb9de65ae8d8a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_ba719f279ab2b9069d02d85459224436217b4f1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_433ac9f677be3873a36e6993bd3c6e76c880da4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_f0dcb12b9f6eb00ce793a1fdbc1cf6fe3e5239ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_d5eae02bd96b8b1a72f90fdcc99fe898aae692ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_9674dd967557e9374db85092e74eab11765a97cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_1fe5b58563a80500f805e3bdf256ea61c512e9ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_78cff39d2e42704e622b38656917b07b0796da35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Intrepid\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Intrepid\repos\GithubUsers\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_48d6da7ce6e47832986b29b41720d4e56bb11e76\classes.dex" />
+    </item>
+
+</items>
