@@ -46,7 +46,7 @@ public class GitHubUserAdapter extends RecyclerView.Adapter<GitHubUserAdapter.Gi
         GithubUser githubUser = githubUserList.get(position);
         holder.userNameTextView.setText(githubUser.getGithubUsername());
         holder.githubUserProfileImage.setImageUrl(githubUser.getProfileImageUrl(),imageLoader);
-        holder.numberOfUsers.setText(String.valueOf(githubUserList.size()));
+        //holder.numberOfUsers.setText(String.valueOf(githubUserList.size()));
 
     }
 
@@ -62,13 +62,12 @@ public class GitHubUserAdapter extends RecyclerView.Adapter<GitHubUserAdapter.Gi
     public class GithubUserViewHolder  extends RecyclerView.ViewHolder implements View.OnClickListener{
         NetworkImageView githubUserProfileImage;
         TextView userNameTextView;
-        TextView numberOfUsers;
+        //TextView numberOfUsers;
 
         public GithubUserViewHolder(View itemView)
         {
             super(itemView);
-
-            numberOfUsers  = (TextView) itemView.findViewById(R.id.number_of_users);
+           // numberOfUsers  = (TextView) itemView.findViewById(R.id.number_of_users);
             githubUserProfileImage = (NetworkImageView) itemView.findViewById(R.id.github_user_profile_image);
             userNameTextView = (TextView) itemView.findViewById(R.id.github_user_userName);
 
