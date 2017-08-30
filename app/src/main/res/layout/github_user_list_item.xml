@@ -36,6 +36,7 @@
             android:layout_gravity="center"
             android:layout_toEndOf="@id/github_user_profile_image"
             android:gravity="center"
+            android:textColor="@color/colorPrimary"
             android:layout_centerInParent="true"
             android:textStyle="bold|italic"
             android:textSize="22sp"

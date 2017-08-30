@@ -163,6 +163,9 @@ public class MainActivity extends AppCompatActivity implements GitHubUserAdapter
     public boolean onOptionsItemSelected(MenuItem item) {
 
         if (item.getItemId() == R.id.action_refresh){
+            progressBar.setVisibility(View.VISIBLE);
+            githubUsersList.clear();
+
             sendJsonRequest(GITHUB_URL);
         }
 
