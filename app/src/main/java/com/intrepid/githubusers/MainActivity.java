@@ -32,7 +32,7 @@ import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity implements GitHubUserAdapter.GithubUserAdapterClickHandler{
 
-    public static final String GITHUB_URL = "https://api.github.com/search/users?q=java+location:lagos";
+    public static final String GITHUB_URL = "https://api.github.com/search/users?q=language:java+location:lagos";
 
     private List<GithubUser> githubUsersList;
     private RecyclerView recyclerView;

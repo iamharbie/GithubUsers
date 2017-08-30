@@ -10,6 +10,7 @@ import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.NetworkImageView;
 import com.intrepid.githubusers.model.GithubUser;
 import com.intrepid.githubusers.util.AppController;
+import com.intrepid.githubusers.util.CircleImageView;
 
 import java.util.List;
 import android.content.Context;
@@ -60,7 +61,7 @@ public class GitHubUserAdapter extends RecyclerView.Adapter<GitHubUserAdapter.Gi
     }
 
     public class GithubUserViewHolder  extends RecyclerView.ViewHolder implements View.OnClickListener{
-        NetworkImageView githubUserProfileImage;
+        CircleImageView githubUserProfileImage;
         TextView userNameTextView;
         //TextView numberOfUsers;
 
@@ -68,7 +69,7 @@ public class GitHubUserAdapter extends RecyclerView.Adapter<GitHubUserAdapter.Gi
         {
             super(itemView);
            // numberOfUsers  = (TextView) itemView.findViewById(R.id.number_of_users);
-            githubUserProfileImage = (NetworkImageView) itemView.findViewById(R.id.github_user_profile_image);
+            githubUserProfileImage = (CircleImageView) itemView.findViewById(R.id.github_user_profile_image);
             userNameTextView = (TextView) itemView.findViewById(R.id.github_user_userName);
 
 

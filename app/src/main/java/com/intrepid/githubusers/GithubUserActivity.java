@@ -18,6 +18,7 @@ import android.widget.Toast;
 import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.NetworkImageView;
 import com.intrepid.githubusers.util.AppController;
+import com.intrepid.githubusers.util.CircleImageView;
 
 import android.net.Uri;
 
@@ -35,7 +36,7 @@ public class GithubUserActivity  extends AppCompatActivity{
     String userName, githubUrl;
 
 
-    private NetworkImageView profileImage;
+    private CircleImageView profileImage;
     private TextView userNameTextView;
     private TextView githubUrlTextView;
     private ImageLoader imageLoader = AppController.getInstance().getImageLoader();
@@ -59,7 +60,7 @@ public class GithubUserActivity  extends AppCompatActivity{
 
         actionBar.setTitle(userName + "\'s Profile");
 
-        profileImage = (NetworkImageView) findViewById(R.id.activity_user_github_profileImage);
+        profileImage = (CircleImageView) findViewById(R.id.activity_user_github_profileImage);
         userNameTextView = (TextView) findViewById(R.id.activity_user_github_userName) ;
         githubUrlTextView = (TextView) findViewById(R.id.activity_user_github_githubUrl);
 
