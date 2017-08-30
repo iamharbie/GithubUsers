@@ -1,2 +1,2 @@
 # GithubUsers
-# This app displays repositories of Java developers in Lagos
+# This app displays list of Java developers in Lagos
